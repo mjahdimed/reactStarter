@@ -16,6 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/mjahdimed/reactStarter.git"
   },
+  "bugs": {
+    "url": "https://github.com/mjahdimed/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mjahdimed/react-boilerplate#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "bcryptjs": "^2.4.3",
